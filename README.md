@@ -29,7 +29,7 @@ Maybe add some img shields
 <br />
 <div align="center" style="height:200px; margin-bottom:10%">
   <a>
-    <img src="HEAD_IMG" alt="HEAD_ALT">
+    <img src="assets/logo%20noir.png" alt="HEAD_ALT">
   </a>
 </div>
 
@@ -59,9 +59,9 @@ Maybe add some img shields
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<div align="center" style="height:200px; margin-bottom:10%">
+<div align="center" style="height:400px; margin-bottom:10%">
   <a>
-    <img src="ABOUT_IMG" alt="ABOUT_ALT">
+    <img src="assets/screenshot.png" alt="ABOUT_ALT">
   </a>
 </div>
 
