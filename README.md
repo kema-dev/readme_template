@@ -4,7 +4,9 @@ Replace PROJECT_NAME
 Replace HEAD_IMG
 Replace ABOUT_IMG
 Replace DOCUMENTATION_PATH
-Replace LICENSE_PATH
+Replace LICENSE_PATH\
+Replace HEAD_ALT
+Replace ABOUT_ALT
 Fill About the project
 Fill Built with
 Fill Prerequisites
@@ -27,7 +29,7 @@ Maybe add some img shields
 <br />
 <div align="center" style="height:200px; margin-bottom:10%">
   <a>
-    <img src="HEAD_IMG" alt="Docker logo">
+    <img src="HEAD_IMG" alt="HEAD_ALT">
   </a>
 </div>
 
@@ -59,7 +61,7 @@ Maybe add some img shields
 
 <div align="center" style="height:200px; margin-bottom:10%">
   <a>
-    <img src="ABOUT_IMG" alt="Docker logo">
+    <img src="ABOUT_IMG" alt="ABOUT_ALT">
   </a>
 </div>
 
@@ -71,7 +73,7 @@ You can find complete documentation <a href="DOCUMENTATION_PATH">here</a>
 
 <!-- TODO Fill this part -->
 
-* <a href="https://example.com/" target="_blank" title="Example's website">Docker</a>
+* <a href="https://example.com/" target="_blank" title="Example's website">Example</a>
 
 <!-- GETTING STARTED -->
 ## Getting Started
