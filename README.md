@@ -92,7 +92,7 @@ You can find complete documentation <a href="DOCUMENTATION_PATH">here</a>
 git clone https://github.com/kema-dev/PROJECT_NAME.git
 ```
 
-1. Go to repository's folder
+2. Go to repository's folder
 
 ```sh
 cd PROJECT_NAME
